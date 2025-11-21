@@ -82,7 +82,7 @@ This script will:
 * Return a machine-readable exit code
 * Final results + message is exported to a CSV.
 
-Logs are written to the `script-logs/` directory.
+Logs are written to the `logs/` directory.
 
 </hr> 
 
@@ -91,7 +91,7 @@ Logs are written to the `script-logs/` directory.
 Log files are stored in:
 
 ```bash
-script-logs/run_YYYY-MM-DD.log
+logs/run_YYYY-MM-DD.log
 ```
 
 This folder & file are automatically created.
