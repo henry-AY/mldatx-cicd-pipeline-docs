@@ -103,6 +103,6 @@ This folder & file are automatically created.
 If you encounter issues:
 1. Open a GitHub Issue
 2. Include:
-  * The log file (`scripts-logs/run_*.log`)
+  * The log file (`logs/run_*.log`)
   * MATLAB Version
   * Python Version
